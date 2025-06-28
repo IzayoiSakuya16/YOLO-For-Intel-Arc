@@ -9,7 +9,7 @@
 * **Intel Arc GPU 兼容性：** 针对在英特尔 Arc 显卡上运行 YOLO 模型进行了适配。
 * **PyTorch 2.7：** 使用 PyTorch 2.7 版本。
 * **使用方法：** 提供整合包，按照视频教程即可使用。
-
+* **视频链接：** [红魔馆的主人](https://www.bilibili.com/video/BV1HvKyzfEit/?spm_id_from=333.1007.top_right_bar_window_dynamic.content.click&vd_source=633b982861136e43023b3172db0f77ab)
 ---
 
 ## 主要修改
