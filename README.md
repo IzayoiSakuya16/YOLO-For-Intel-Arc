@@ -28,7 +28,7 @@
 
 你可以从以下链接下载整合包，并在你的Intel Arc GPU 上运行 YOLO：
 
-* [直链下载](https://www.modelscope.cn/models/Sakuya999/YOLO-For-Intel-Arc/resolve/master/yolo11.zip)
+* [直链下载](https://www.modelscope.cn/models/Sakuya999/YOLO-For-Intel-Arc/resolve/master/YOLO-For-Intel-Arc.zip)
 * [123 网盘](https://www.123865.com/s/0p0Mjv-FkKgh)
 * [百度网盘](https://pan.baidu.com/s/1EEwbSyr-jkUGYz2b1XgNLQ?pwd=1616)
 ---
